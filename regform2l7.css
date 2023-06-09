@@ -8,11 +8,11 @@
 
     body{
         padding-top: 70px;
-        color:#000000a5 ;
-        background-color: #19b38d;
+        color:#9999CC ;
+        background-color: #FF9999;
     }
     form{
-        background-color: #158871;
+        background-color: #00EE00;
         width: 60%;
         margin-top: 20px;
         font-size: 100%;
@@ -95,7 +95,7 @@ label{
   border-radius: 999px;
   box-shadow: #38846e 0 10px 20px -10px;
   box-sizing: border-box;
-  color: #000000;
+  color: #E0FFFF;
   cursor: pointer;
   font-family: Inter,Helvetica,"Apple Color Emoji","Segoe UI Emoji",NotoColorEmoji,"Noto Color Emoji","Segoe UI Symbol","Android Emoji",EmojiSymbols,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans",sans-serif;
   font-size: 16px;
@@ -128,7 +128,7 @@ label{
     margin-top: 5px;
     width: 90px;
     height: 30px;
-    background-color: #3d9078;
-    color: #FFFFFF;
+    background-color: #EEAD0E;
+    color: #FF1493;
     border-radius: 10px;
 }
